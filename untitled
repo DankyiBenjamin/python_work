@@ -1,0 +1,6 @@
+nums = input("please what is the number")
+total = 0
+for num in nums:
+    total +=num
+    
+print(total)

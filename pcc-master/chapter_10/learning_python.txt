@@ -1,0 +1,3 @@
+In python you can easily get things done
+In python the input function helps to take user info
+In python you can use the print function
