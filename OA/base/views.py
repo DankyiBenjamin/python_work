@@ -52,7 +52,7 @@ def logoutUser(request):
     return redirect('home')
 
 
-@login_required(login_url = 'login')
+# @login_required(login_url = 'login')
 def registerPage(request):
     form = MyUserCreationForm()
     context = { 'form' : form}
